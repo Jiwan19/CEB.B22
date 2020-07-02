@@ -1,0 +1,15 @@
+@media (max-width: 670px) {
+  header {
+    text-align: center;
+  }
+  .main-content{
+    width:100%;
+  }
+  footer {
+    text-align: center;
+  }
+  .side-content{
+    width: 100%;
+  }
+
+}
